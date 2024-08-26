@@ -7,3 +7,4 @@ xhofe/alist:latest
 minio/minio:latest
 kasmweb/chrome:1.14.0
 selenium/node-chrome
+p3terx/aria2-pro
